@@ -1,8 +1,7 @@
 public class Hello1 {
     public static void main(String[] args){
-        int[] numbers = new int[5];
-        for (int i : numbers) {
-            System.out.println(i);
-        }
+        System.out.println("Hello PNRU");
+        System.out.println("Hello ARE U OK");
+        System.out.println("Hello SAWASDEEKA");
     }
 }
